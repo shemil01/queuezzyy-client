@@ -12,7 +12,7 @@ export const Navbar = () => {
       </div>
       <div className="flex ml-24 space-x-4">
         <span className="hover:bg-[#0E4698] py-1 px-2 rounded-full hover:text-white">Login</span>
-        <span className="hover:bg-[#0E4698] py-1 px-2 rounded-full hover:text-white">Signup</span>
+        <span className="hover:bg-[#0E4698] py-1 px-2 rounded-full hover:text-white">Signup    </span>
       </div>
     </div>
   </nav>
