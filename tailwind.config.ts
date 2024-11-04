@@ -8,9 +8,9 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      width: {
-        'custom-1076': '1076px',
-        'custom-422': '422px',
+      fontFamily: {
+        fustat: ['Fustat', 'sans-serif'],
+      
       },
       colors: {
         background: "var(--background)",
