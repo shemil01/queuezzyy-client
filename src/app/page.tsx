@@ -2,6 +2,7 @@ import { ReminderSection } from "@/components/user/ReminderSection";
 import { HeroSection } from "@/components/user/HeroSection";
 import { Navbar } from "@/components/user/Navbar";
 import { Specializations } from "@/components/user/Specializations";
+import { WhyUsSection } from "@/components/user/WhyUsSection";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <div><div className="flex justify-center mt-10">
       <ReminderSection/>
       </div></div>
+      <div><WhyUsSection/></div>
     </div>
   );
 }
