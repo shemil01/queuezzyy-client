@@ -10,10 +10,10 @@ export default function Home() {
      <div><div className="flex justify-center"> <Navbar/></div></div>
       <div className=" flex justify-end mr-10 mt-10"><div><HeroSection/></div></div>
       <div><Specializations/></div>
-      <div><div className="flex justify-center mt-10">
+      <div><div className="flex justify-start m-10">
       <ReminderSection/>
       </div></div>
-      <div><WhyUsSection/></div>
+      <div className=""><WhyUsSection/></div>
     </div>
   );
 }
