@@ -2,7 +2,7 @@ import React from 'react'
 
 export const WhyUsSection = () => {
   return (
-    <div className=' font-fustat flex justify-center '>
+    <div className=' font-fustat flex justify-start '>
         <div className=' flex flex-row space-x-6  p-10 text-gray-800'>
            
         <div className='flex flex-col space-y-5 '>
