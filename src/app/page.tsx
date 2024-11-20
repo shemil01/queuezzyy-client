@@ -1,9 +1,11 @@
+import Banner from '@/components/banner'
 import React from 'react'
 
-export const page = () => {
+const page = () => {
   return (
-    <div>page</div>
+    <div><Banner/></div>
   )
 }
 
+export default page
 
