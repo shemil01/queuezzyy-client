@@ -27,6 +27,23 @@ body {
 }
 /* styles/globals.css */
 @import url('https://fonts.googleapis.com/css2?family=Fustat:wght@200..800&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+/* styles/globals.css */
+@import url('https://fonts.googleapis.com/css2?family=Fustat:wght@200..800&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+
+
+@font-face {
+  font-family:'Graphik';
+  src: url('./fonts/Graphik Compact Family/GraphikCompact-Black-Trial.otf') format('truetype');
+  font-weight: 400; /* Regular */
+  font-style: normal;
+}
+
+@font-face {
+  font-family:'Graphikregular';
+  src: url('./fonts/Graphik Compact Family/GraphikCompact-Regular-Trial.otf') format('truetype');
+  font-weight: 400; /* Regular */
+  font-style: normal;
+}
 
 
 

@@ -4,7 +4,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div className='mt-10 mx-10'>
+    <div className='mt-10 mx-10 space-y-3'>
         <Navbar/>
         <div><Banner/></div>
     </div>

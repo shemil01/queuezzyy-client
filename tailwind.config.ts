@@ -10,6 +10,10 @@ const config: Config = {
     extend: {
       fontFamily: {
         fustat: ['Fustat', 'sans-serif'],
+        inter: ['"Inter"', 'sans-serif'],
+        roboto: ['"Roboto Flex"', 'sans-serif'],
+        Graphik:['Graphik','sans-serif'],
+        Graphikregular:['Graphikregular','sans-serif']
       
       },
       colors: {
