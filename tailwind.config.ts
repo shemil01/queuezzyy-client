@@ -13,7 +13,8 @@ const config: Config = {
         inter: ['"Inter"', 'sans-serif'],
         roboto: ['"Roboto Flex"', 'sans-serif'],
         Graphik:['Graphik','sans-serif'],
-        Graphikregular:['Graphikregular','sans-serif']
+        Graphikregular:['Graphikregular','sans-serif'],
+        Graphicsemibold:['Graphiksemibold','sans-serif']
       
       },
       colors: {

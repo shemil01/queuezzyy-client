@@ -44,6 +44,12 @@ body {
   font-weight: 400; /* Regular */
   font-style: normal;
 }
+@font-face {
+  font-family:'Graphiksemibold';
+  src: url('./fonts/Graphik Compact Family/GraphikCompact-Semibold-Trial.otf') format('truetype');
+  font-weight: 400; /* Regular */
+  font-style: normal;
+}
 
 
 

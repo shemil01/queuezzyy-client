@@ -26,7 +26,7 @@ const Banner = () => {
     </div>
 {/* banner bottom conten */}
 <div className="flex justify-between  ">
-    <div><h3 className=" text-white font-light">IF YOU'RE LOOKING FOR A CREATIVE AND <br />EASY WAY TO BUILD A WEBSITE, WOW! <br />IS THE PERFECT SOLUTION</h3></div>
+    <div><h3 className=" text-white font-light"> IF YOU RE LOOKING FOR A CREATIVE AND <br />EASY WAY TO BUILD A WEBSITE, WOW! <br />IS THE PERFECT SOLUTION</h3></div>
     <div><button className=" bg-[#e7c2d4] pl-[24px] pr-[24px] pt-[19px] pb-[19px] font-Graphikregular font-light rounded-[100px] tracking-wider">Find nearst</button></div>
 </div>
      </div>
