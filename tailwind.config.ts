@@ -16,7 +16,7 @@ const config: Config = {
         Graphikregular:['Graphikregular','sans-serif'],
         Graphicsemibold:['Graphiksemibold','sans-serif']
       
-      },
+      }, 
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
